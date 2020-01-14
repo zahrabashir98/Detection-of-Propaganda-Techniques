@@ -1,0 +1,2 @@
+# Detection-of-Propaganda-Techniques
+DETECTION OF PROPAGANDA TECHNIQUES IN NEWS ARTICLES
